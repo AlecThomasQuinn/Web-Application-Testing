@@ -1,5 +1,13 @@
 {
   "dependencies": {
+    "@testing-library/jest-dom": "^4.1.2",
+    "@testing-library/react": "^9.3.0",
     "create-react-app": "^3.2.0"
-  }
+  },
+  "name": "Web-Application-Testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AlecThomasQuinn/Web-Application-Testing.git",
+  "author": "<alec.thomas.quinn@gmail.com>",
+  "license": "MIT"
 }
